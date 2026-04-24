@@ -14,7 +14,7 @@ import { motion } from "framer-motion";
 
 const testimonials = [
     {
-        text: "Career Craft AI’s smart tools gave me clear direction and confidence in my career choices.",
+        text: "Career Genie AI’s smart tools gave me clear direction and confidence in my career choices.",
         imageSrc: avatar1.src,
         name: "Olivia Carter",
         username: "@oliviacareerpath",
@@ -26,7 +26,7 @@ const testimonials = [
         username: "@michael_upskill",
     },
     {
-        text: "Career Craft AI helped me create a stunning portfolio website with zero coding effort.",
+        text: "Career Genie AI helped me create a stunning portfolio website with zero coding effort.",
         imageSrc: avatar3.src,
         name: "Sophia Bennett",
         username: "@sophiadesignhub",
@@ -44,7 +44,7 @@ const testimonials = [
         username: "@isabellacareer",
     },
     {
-        text: "Career Craft AI’s personalized advice and insights helped me land my dream job faster.",
+        text: "Career Genie AI’s personalized advice and insights helped me land my dream job faster.",
         imageSrc: avatar6.src,
         name: "Ethan Davis",
         username: "@ethandaviswork",
@@ -56,7 +56,7 @@ const testimonials = [
         username: "@chloementorship",
     },
     {
-        text: "From career planning to portfolio building, Career Craft AI made everything effortless.",
+        text: "From career planning to portfolio building, Career Genie AI made everything effortless.",
         imageSrc: avatar8.src,
         name: "Aiden Scott",
         username: "@aidenscottpath",
@@ -113,7 +113,7 @@ export const Testimonials = () => {
                 What Our Users Say
             </h2>
             <p className="max-w-lg text-sm text-center mx-auto mt-4 text-neutral-300">
-                See how Career Craft AI has transformed career journeys with AI-powered guidance, smart roadmaps, and effortless portfolio building. Hear from users who have taken their careers to the next level!
+                See how Career Genie AI has transformed career journeys with AI-powered guidance, smart roadmaps, and effortless portfolio building. Hear from users who have taken their careers to the next level!
             </p>
             <div className="flex justify-center gap-16 mt-10 max-h-[738px] overflow-hidden px-4 sm:px-8 lg:px-10">
                 <TestimonialsColumn testimonials={firstColumn} duration={15} />

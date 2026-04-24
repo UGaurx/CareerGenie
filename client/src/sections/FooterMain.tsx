@@ -16,7 +16,7 @@ export default function FooterMain() {
           </div>
           <div>
             Product by{' '}
-            <span className="text-sky-500 font-medium">Avengers</span>
+            <span className="text-sky-500 font-medium">Shweta & Utkarsh</span>
           </div>
           <div className="mt-2">
             contact at{' '}
@@ -76,7 +76,7 @@ export default function FooterMain() {
             <a
               target="__blank"
               className="transition-colors hover:text-white/80 text-white/60"
-              href="mailto:support@careercraftai.com"
+              href="mailto:ugaurx@gmail.com"
               rel="noopener noreferrer"
             >
               Contact Us

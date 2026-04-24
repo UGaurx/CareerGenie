@@ -17,11 +17,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Career Craft AI",
+  title: "Career Genie AI",
   description:
     "Empowering your career journey with AI-powered tools like career advising, roadmap generation, portfolio builder, and interview preparation.",
   openGraph: {
-    title: "Career Craft AI",
+    title: "Career Genie AI",
     description:
       "Empowering your career journey with AI-powered tools like career advising, roadmap generation, portfolio builder, and interview preparation.",
     type: "website",
